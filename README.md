@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student in Şişli Vocational and Technical Anatolian High School<br>Live in Istanbul<br>Software Engineer
+Graduated from Şişli Vocational and Technical Anatolian High School<br>Live in Istanbul<br>Software Engineer
 
 
 
